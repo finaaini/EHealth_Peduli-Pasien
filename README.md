@@ -11,7 +11,7 @@ SOFTWARE REQUIREMENT SPESIFICATION
 5200411225 Fina Nuraini             : Deskripsi Umum, Perspektif Produk,  Software Interface, Hardware Interface 
 5200411241 Alfianda Suci Wulansari  : Manfaat Produk, Karakteristik User, Batasan-Batasan, Asumsi dan Ketergantungan.
 5200411248 Thio Prasetiyo           : Teknologi yang Digunakan, Gambaran Umum Dokumen, Deskripsi Gambaran Umum, Kebutuhan Fungsional
- </pre>
+</pre>
  
 <hr>
 Perintah SQL
