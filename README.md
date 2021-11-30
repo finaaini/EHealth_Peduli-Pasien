@@ -13,6 +13,15 @@ SOFTWARE REQUIREMENT SPESIFICATION
 5200411248 Thio Prasetiyo           : Teknologi yang Digunakan, Gambaran Umum Dokumen, Deskripsi Gambaran Umum, Kebutuhan Fungsional
 </pre>
  
+ <hr>
+PROTOTYPING
+<pre>
+5200411207 Firnawa Adhitama         : Squence Diagram
+5200411225 Fina Nuraini             : Class Diagram, Object Diagram
+5200411241 Alfianda Suci Wulansari  : Use Case Diagram, Activity Diagram
+5200411248 Thio Prasetiyo           : Rancangan Interface
+</pre>
+ 
 <hr>
 Perintah SQL
 <pre>
